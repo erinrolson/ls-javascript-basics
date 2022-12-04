@@ -1,0 +1,6 @@
+'true' === string
+false === boolean
+1.5 === Number
+2 === Number
+undefined === undefined
+{ foo: 'bar' } === object
