@@ -4,7 +4,7 @@ let person = {
   age: 33
 };
 
-let nestedPerson = []
-
+let nestedPerson = Object.entries(person);
+console.log(nestedPerson);
 // Expected output:
 // [['title', 'Duke'], ['name', 'Nukem'], ['age', 33]]
